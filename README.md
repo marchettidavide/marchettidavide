@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-# Hi there!  
-
 Hi, I'm Davide and I'm a fullstack developer:man_technologist: 🖥️ 💻 📱
 In the last few years I have been working for the biggest System Integrators. I have worked with different technologies (Html, Css and Javascript, Php) and frameworks (jQuery, Angular, React). I have handled, developed and integrated my code on countless CMS. I love writing code, and I never stop learning new programming languages ​​or web development frameworks.
 
